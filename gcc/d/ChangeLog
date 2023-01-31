@@ -1,0 +1,10 @@
+2023-01-02  Jakub Jelinek  <jakub@redhat.com>
+
+	* gdc.texi: Bump @copyrights-d year.
+
+
+Copyright (C) 2023 Free Software Foundation, Inc.
+
+Copying and distribution of this file, with or without modification,
+are permitted in any medium without royalty provided the copyright
+notice and this notice are preserved.
